@@ -43,6 +43,7 @@ https://github.com/orgs/ClearTerms/projects/2/views/4
 ## 9.List of constraints (operational & technical)
   - Economic Constraint: Hosting the website on a server would cost money which is not within our current budget.
   - Time constraint: Team members are not full-time invested in the project, due to other duties, therefore time can be a constraint.
+    
 ##10. List of standards (e.g., programming language, coding standards
   - a.This system must be developed using programming languages that are compatible with the Ruby on Rails [https://rubystyle.guide/] framework and it would follow coding standards set by the Ruby Style Guide. The system should also follow user-interface standards associated with modern web-based software systems
 
